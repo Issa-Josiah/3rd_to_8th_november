@@ -1,0 +1,74 @@
+body{
+    background-color:#99b4ac;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: justify;
+    text-transform:capitalize;
+    text-decoration: wavy;
+    color:rgb(63, 50, 25);
+    margin:100px;
+}
+h1{
+    background-color:#99b4ac;
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-style:italic;
+    text-align: center;
+    text-transform:uppercase;
+    text-decoration: underline;
+    color:rgb(63, 50, 25);
+   
+}
+h2{
+     background-color:#99b4ac;
+    font-size: 36px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 600;
+    font-style:italic;
+    text-align: center;
+    text-transform:uppercase;
+    text-decoration: underline;
+    color:rgb(63, 50, 25)
+}
+h3{
+    background-color:#99b4ac;
+    font-size: 32px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 550;
+    font-style:italic;
+    text-align: center;
+    text-transform:uppercase;
+    text-decoration: underline;
+    color:rgb(63, 50, 25)
+}
+h4{
+    background-color:#99b4ac;
+    font-size: 28px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-style:italic;
+    text-align: center;
+    text-transform:uppercase;
+    text-decoration: dotted;
+    color:rgb(63, 50, 25)
+}
+p.today{
+    background-color:rgba(137, 43, 226, 0.526);
+    margin-left: 200px;
+    margin-right: 300px;
+    padding:20px;
+    border:30px;
+    border-radius: 20px;
+}
+.note{background-color:burlywood;
+font-style:italic ;
+}
+.right{
+    text-align:left;
+}
+.left{
+    text-align:right;
+}
